@@ -1,3 +1,7 @@
+# Numerical-Approximation-Methods
+
+These are programs that estimate values of differential equations using different methods. This is also a test of using Jekyll Themes for the README.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Abhiek187/Numerical-Approximation-Methods/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
